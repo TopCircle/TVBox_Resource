@@ -2,7 +2,7 @@
 "storeHouse": 
 [
 
-{ "sourceName": "🔞H-Adult", "sourceUrl": "https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/H-boy/line.txt" }
+{ "sourceName":"🔞H-Adult","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/H-boy/line.txt" }
 
 ]
 }
