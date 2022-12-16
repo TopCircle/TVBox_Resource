@@ -56,6 +56,6 @@
         {
            "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/H/h",
            "name":"🔞2Hacc"
-        },        
+        }      
      ]
    }
