@@ -26,8 +26,8 @@
           "name":"🔞chengxueli-2"
         },
         {
-          "url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
-          "name":"🔞zhanghong1983"
+          "url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/18.json",
+          "name":"TVBOXZY"
         },
         {
           "url":"https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
