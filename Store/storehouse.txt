@@ -2,6 +2,6 @@
 "storeHouse": 
 [
 { "sourceName":"🔞H-Adult","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/h-line.txt" },
-{ "sourceName":"欧歌主线","sourceUrl":"https:/Store/raw.githubusercontent.com/TopCircle/TVBox_Resource/main//欧歌主线路.txt" }
+{ "sourceName":"欧歌主线","sourceUrl":"https:/Store/raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/欧歌主线路.txt" }
 ]
 }
