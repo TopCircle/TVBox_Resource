@@ -1,7 +1,0 @@
-{
-"storeHouse": 
-[
-{ "sourceName":"🔞H-Adult","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/H-boy/h-line.txt" },
-{ "sourceName":"欧歌主线","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/H-boy/欧歌主线路.txt" }
-]
-}
