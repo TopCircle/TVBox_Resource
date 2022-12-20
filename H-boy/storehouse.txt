@@ -1,6 +1,7 @@
 {
 "storeHouse": 
 [
+{ "sourceName":"欧歌主线","sourceUrl":"./欧歌主线路.txt" }
 { "sourceName":"🔞H-Adult","sourceUrl":"./h-line.txt" }
 ]
 }
