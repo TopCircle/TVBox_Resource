@@ -67,11 +67,11 @@
         },
         {
            "url": "https://agit.ai/pinghui/xinghe/raw/branch/master/%e6%85%8e%e7%94%a8TVBOX%e7%a6%8f%e5%88%a9%e6%8e%a5%e5%8f%a3.txt",
-           "name":"🔞 xinghe"
+           "name":"🔞xinghe"
         },
         {
            "url": "https://raw.githubusercontent.com/XuQqu/PinkBird/main/adult.json",
-           "name":"🔞 PinkBird"
+           "name":"🔞PinkBird"
         }
      ]
    }
