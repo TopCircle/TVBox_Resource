@@ -21,7 +21,7 @@
           "name":"🔞chengxueli-福利接口"
         },
         {
-          "url":"ttps://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
+          "url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
           "name":"🔞chengxueli-18"
         },
         {
