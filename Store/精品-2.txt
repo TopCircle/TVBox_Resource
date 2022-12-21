@@ -1,0 +1,62 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+      "name": "伍佰园"
+    },
+    {
+      "url": "http://xn--4bra.live/%E7%8C%AB",
+      "name": "肥猫"
+    },
+    {
+      "url": "http://wp.anxwl.cn/down.php/279a2174e2ba2f0d34002af90e94ec2e.txt&zn777",
+      "name": "白菜"
+    },
+    {
+      "url": "http://52bsj.vip:98/wuai",
+      "name": "吾爱️"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/XuQqu/PinkBird/main/normal.json",
+      "name": "PinkBird"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/ptest.json",
+      "name": "heroaku线路"
+    },
+    {
+      "url": "https://kebedd69.github.io/甜蜜.json",
+      "name": "甜蜜线路"
+    },
+    {
+      "url": "http://dxawi.github.io/0/0.json",
+      "name": "dxawi线路-0"
+    },
+    {
+      "url": "https://dxawi.github.io/0/1.json",
+      "name": "dxawi线路-1"
+    },
+   {
+      "url": "http://www.dmtv.ml/mao/single.json",
+      "name": "dmtv-single"
+    }
+    {
+      "url": " http://www.dmtv.ml/mao/mao.php",
+      "name": "dmtv-[多条线路]"
+    },
+    {
+      "url": "https://agit.ai/66666/mao/src/branch/master/00/000.m3u8",
+      "name": "分享者"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+

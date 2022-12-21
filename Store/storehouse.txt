@@ -1,7 +1,11 @@
 {
 "storeHouse": 
 [
-{ "sourceName":"🔞H-Adult","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/H-boy/h-line.txt" },
-{ "sourceName":"欧歌主线","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/H-boy/欧歌主线路.txt" }
+{ "sourceName":"🔞H-Adult","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/h-line.txt" },
+{ "sourceName":"欧歌主线","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/欧歌主线路.txt" }
+{ "sourceName":"优质精选","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/优质精选.txt" },
+{ "sourceName":"玖妖云星","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/玖妖云星.txt" }
+{ "sourceName":"精品-1","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/精品-1.txt" },
+{ "sourceName":"精品-2","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/精品-2.txt" }
 ]
 }

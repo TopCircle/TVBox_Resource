@@ -1,0 +1,41 @@
+{
+  "urls":
+  [
+    {
+      "url": "https://神器每日推送.tk/pz.json",
+      "name": "神器每日推送"
+    },
+    {
+      "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
+      "name": "二哈线路"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "俊佬线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "name": "老刘备"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json",
+      "name": "张弘线路"
+    },
+    {
+      "url": "http://饭太硬.ga/x/o.json",
+      "name": "饭太硬线路"
+    },
+     {
+      "url": "https://freetvbox.ml/api/qy.txt",
+      "name": "晴园"
+    },
+    {
+      "url": "https://hutool.ml/tang",
+      "name": "唐三线路"
+    },
+    {
+      "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+      "name": "Free-TVUrl-Merge"
+    }
+  ]
+}
