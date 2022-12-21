@@ -3,7 +3,7 @@
     {
       "url": "http://pandown.pro/tvbox/tvbox.json",
       "name": "巧记线路"
-    }
+    },
     {
       "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
       "name": "公益线路"

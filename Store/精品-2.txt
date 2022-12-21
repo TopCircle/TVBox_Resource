@@ -39,7 +39,7 @@
    {
       "url": "http://www.dmtv.ml/mao/single.json",
       "name": "dmtv-single"
-    }
+    },
     {
       "url": " http://www.dmtv.ml/mao/mao.php",
       "name": "dmtv-[多条线路]"

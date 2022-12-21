@@ -1,4 +1,6 @@
-  "urls": [
+  {
+    "urls":
+   [
    {
       "url": "http://152.136.125.181:81/MM/dianbos/xianlu00.json",
       "name": "玖妖收藏-xianlu00‍️"
@@ -27,7 +29,7 @@
       "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
       "name": "云星阿里"
     },
-        {
+    {
       "url": "http://www.yunwp.cn/api/v3/file/get/919/%E6%98%9F%E8%BE%B0%E5%BD%B1%E8%A7%86.json?sign=RizSFKTqJqWabr5xA_KjWHFIl0eEW6KbcdUxBEzf4ko%3D%3A0",
       "name": "电视免VIP[星辰影视]"
     },
@@ -42,4 +44,6 @@
     {
       "url": "https://php.dawwiqingyi.repl.co/json/yyds.json",
       "name": "永远滴神[多条线路]"
-    },
+    }
+  ]
+}}
