@@ -33,9 +33,5 @@
       "url": "https://hutool.ml/tang",
       "name": "唐三线路"
     },
-    {
-      "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-      "name": "Free-TVUrl-Merge"
-    }
   ]
 }
