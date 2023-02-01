@@ -5,16 +5,8 @@
       "name": "巧记线路"
     },
     {
-      "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
-      "name": "公益线路"
-    },
-    {
       "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
       "name": "小苹果线路"
-    },
-    {
-      "url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
-      "name": "潇洒线路"
     },
     {
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
