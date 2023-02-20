@@ -6,7 +6,7 @@
       "name": "神器每日推送"
     },
     {
-      "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
+      "url": "https://tv.5ye.cc/",
       "name": "二哈线路"
     },
     {
@@ -25,13 +25,17 @@
       "url": "http://饭太硬.ga/x/o.json",
       "name": "饭太硬线路"
     },
-     {
-      "url": "https://freetvbox.ml/api/qy.txt",
-      "name": "晴园"
-    },
     {
       "url": "https://hutool.ml/tang",
       "name": "唐三线路"
+    },
+      {
+      "url": "https://raw.githubusercontent.com/tv-player/tvbox-line/main/custom_site.json",
+      "name": "tvbox-line"
+    },
+      {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json",
+      "name": "gaotianliuyun"
     }
   ]
 }
