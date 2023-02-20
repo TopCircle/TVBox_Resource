@@ -17,14 +17,6 @@
           "name":"🔞Gmmtekamu-18"
         },
         {
-          "url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/福利接口.txt",
-          "name":"🔞chengxueli-福利接口"
-        },
-        {
-          "url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
-          "name":"🔞chengxueli-18"
-        },
-        {
           "url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/18.json",
           "name":"🔞zhanghong1983-18"
         },
