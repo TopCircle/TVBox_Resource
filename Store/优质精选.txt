@@ -22,12 +22,16 @@
       "name": "张弘线路"
     },
     {
-      "url": "http://饭太硬.ga/x/o.json",
+      "url": "http://xn--sss604efuw.ga/tv",
       "name": "饭太硬线路"
     },
     {
       "url": "https://hutool.ml/tang",
       "name": "唐三线路"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+      "name": "FongMI"
     },
       {
       "url": "https://raw.githubusercontent.com/tv-player/tvbox-line/main/custom_site.json",
