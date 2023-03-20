@@ -9,10 +9,6 @@
       "url": "https://tv.5ye.cc/",
       "name": "二哈线路"
     },
-     {
-      "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json",
-      "name": "小雅"
-    },
     {
       "url": "http://home.jundie.top:81/top98.json",
       "name": "俊佬线路"
@@ -20,10 +16,6 @@
     {
       "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
       "name": "老刘备"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json",
-      "name": "张弘线路"
     },
     {
       "url": "http://xn--sss604efuw.ga/tv",
