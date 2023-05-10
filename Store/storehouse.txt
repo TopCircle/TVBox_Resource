@@ -7,9 +7,21 @@
 { "sourceName":"优质精选","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/优质精选.txt" },
 { "sourceName":"玖妖云星","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/玖妖云星.txt" },
 { "sourceName":"精品-1","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/精品-1.txt" },
-{ "sourceName":"精品-2","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/精品-2.txt" },
-{"sourceName":"🌲一木多仓推荐","sourceUrl":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json"},
+{ "sourceName":"精品-2","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/精品-2.txt" },"},
 {"sourceName":"云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
-{"sourceName": "安卓哥1仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"}
+{"sourceName":"自用在线仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json" },
+{"sourceName":"多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
+{"sourceName":"多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
+{"sourceName":"多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
+{"sourceName":"多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"},
+{"sourceName":"刘备仓库","sourceUrl":"https://raw.liucn.cc/box/dc.txt" },
+{"sourceName":"高天流云仓","sourceUrl":"https://agit.ai/butterfly/md/raw/branch/Zaku/DC-main.json" },
+{"sourceName":"超级仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" },
+{"sourceName":"月光宝盒仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
+{"sourceName":"月光宝盒仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
+{"sourceName":"月光宝盒仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"},
+{"sourceName":"月光宝盒仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"},
+{"sourceName":"大烟管仓库①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/ck.txt"},
+{"sourceName":"电视盒子仓","sourceUrl":"http://chuanshuo.77blog.cn/yuan"}
 ]
 }

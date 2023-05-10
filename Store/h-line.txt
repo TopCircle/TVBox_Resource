@@ -6,6 +6,10 @@
           "name":"🔞猫公子线路1"
         },
         {
+          "url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json",
+          "name":"🔞mengzehe"
+        },
+        {
           "url":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fuli.json",
           "name":"🔞tvbox-line"
         },
