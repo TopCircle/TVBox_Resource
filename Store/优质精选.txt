@@ -6,7 +6,7 @@
       "name": "神器每日推送"
     },
     {
-      "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json",
+      "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
       "name": "二哈线路"
     },
     {
