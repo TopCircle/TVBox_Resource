@@ -18,24 +18,24 @@
       "name": "老刘备"
     },
     {
-      "url": "http://xn--sss604efuw.ga/tv",
+      "url": "http://xn--sss604efuw.top/",
       "name": "饭太硬线路"
     },
     {
-      "url": "https://hutool.ml/tang",
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
       "name": "唐三线路"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
       "name": "FongMI"
     },
       {
-      "url": "https://raw.githubusercontent.com/tv-player/tvbox-line/main/custom_site.json",
-      "name": "tvbox-line"
+      "url": "https://100km.top/0",
+      "name": "纯一骚零"
     },
       {
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json",
-      "name": "gaotianliuyun"
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "高天流云XYQ"
     }
   ]
 }
