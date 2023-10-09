@@ -22,11 +22,11 @@
       "name": "饭太硬线路"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
       "name": "唐三线路"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
       "name": "FongMI"
     },
       {
@@ -34,7 +34,7 @@
       "name": "纯一骚零"
     },
       {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "高天流云XYQ"
     }
   ]
