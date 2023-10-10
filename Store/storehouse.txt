@@ -2,8 +2,6 @@
 "storeHouse": 
 [
 { "sourceName":"🔞H-Adult","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/h-line.txt" },
-{ "sourceName":"欧歌1","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌" },
-{ "sourceName":"欧歌19","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=19&b=欧歌" },
 { "sourceName":"优质精选","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/优质精选.txt" },
 ]
 }
