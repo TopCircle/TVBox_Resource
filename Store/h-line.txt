@@ -1,17 +1,8 @@
 {
     "urls":
     [
-
         {
-          "url":"https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/ss.json",
-          "name":"🔞Gmmtekamu-ss"
-        },
-        {
-          "url":"https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json",
-          "name":"🔞Gmmtekamu-18"
-        },
-        {
-          "url":"https://raw.githubusercontent.com/guot55/gg1/main/qh.json",
+          "url":"https://guot55.github.io/gg1/qh.json",
           "name":"🔞guot55"
         },
         {
@@ -26,10 +17,6 @@
         {
            "url": "https://agit.ai/pinghui/xinghe/raw/branch/master/慎用TVBOX福利接口.txt",
            "name":"🔞xinghe"
-        },
-        {
-           "url": "https://raw.githubusercontent.com/XuQqu/PinkBird/main/adult.json",
-           "name":"🔞PinkBird"
         },
          {
            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
