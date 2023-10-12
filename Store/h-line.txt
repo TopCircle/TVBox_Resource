@@ -2,25 +2,12 @@
     "urls":
     [
         {
-          "url":"https://guot55.github.io/gg1/qh.json",
-          "name":"🔞guot55"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
-          "name": "🔞franksun1211"
-        },
-
-        {
-           "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
-           "name":"🔞2Hacc"
-        },
-        {
-           "url": "https://agit.ai/pinghui/xinghe/raw/branch/master/慎用TVBOX福利接口.txt",
-           "name":"🔞xinghe"
-        },
-         {
            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
-           "name":"🔞gaotianliuyun"
+           "name":"🔞高天流云"
+        },
+        {
+           "url": "https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/18.json",
+           "name":"🔞erichua"
         },
         {
            "url": "https://raw.githubusercontent.com/Guard-H/tvbox/main/c.json",

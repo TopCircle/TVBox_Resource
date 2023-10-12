@@ -6,6 +6,10 @@
       "name": "神器每日推送"
     },
     {
+       "url": "https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/multiple.json",
+        "name":"🔞erichua"
+    },
+    {
       "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
       "name": "二哈线路"
     },
