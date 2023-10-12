@@ -1,7 +1,8 @@
 {
 "storeHouse": 
 [
-{ "sourceName":"🔞H-Adult","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/h-line.txt" },
-{ "sourceName":"优质精选","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/优质精选.txt" },
+{ "sourceName":"Circle","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/circle.txt" },
+{ "sourceName":"🔞H-Adult-1","sourceUrl":"https://raw.githubusercontent.com/TopCircle/TVBox_Resource/main/Store/h-line.txt" },
+{ "sourceName":"🔞H-Adult-2": "https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/multiple.json",},
 ]
 }
