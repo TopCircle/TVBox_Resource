@@ -1,0 +1,45 @@
+{
+  "urls":
+  [
+    {
+      "url": "https://神器每日推送.tk/pz.json",
+      "name": "神器每日推送"
+    },
+    {
+       "url": "https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/multiple.json",
+        "name":"🔞erichua"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+      "name": "二哈线路"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "俊佬线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "name": "老刘备"
+    },
+    {
+      "url": "http://xn--sss604efuw.top/",
+      "name": "饭太硬线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
+      "name": "唐三线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "name": "FongMI"
+    },
+      {
+      "url": "https://100km.top/0",
+      "name": "纯一骚零"
+    },
+      {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "高天流云XYQ"
+    }
+  ]
+}
