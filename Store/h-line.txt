@@ -6,10 +6,6 @@
            "name":"🔞高天流云"
         },
         {
-           "url": "https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/18.json",
-           "name":"🔞erichua"
-        },
-        {
            "url": "https://raw.githubusercontent.com/Guard-H/tvbox/main/c.json",
            "name":"🔞Guard-H"
         }
